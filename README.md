@@ -19,9 +19,9 @@ O projeto foi desenvolvido como prática acadêmica durante a graduação em **E
 - Exibição da **próxima peça**  
 - Mensagem final com a pontuação total  
 
----
 
-## 🚀 P
+
+## 🚀 Execução do código
 Para executar o código é necessário a instalação da biblioteca numpy e para windows é necessária a instalação das bibliotecas numpy e do curses.
 
 Para instalação em linux/MacOS: pip install numpy
